@@ -4,12 +4,15 @@
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-Like `awesome-cap`? Have any suggestion but don't want to PR this? Reach out to me and say *hi* on [Twitter](https://twitter.com/tiagobalmeida)! 👋
+Like `awesome-cap`? Have any suggestion? Feel free to reach out to me on [Twitter](https://twitter.com/tiagobalmeida) or create a PR. 👋
 
 ## Contents
 
 - [Courses](#courses)
 - [Live Streams](#live-streams)
+- [Node.js Specific Resources](#node.js-specific-resources)
+- [Sample Applications](#sample-applications)
+- [Java Specific Resources](#java-specific-resources)
 
 ## Courses
 
@@ -18,3 +21,16 @@ Like `awesome-cap`? Have any suggestion but don't want to PR this? Reach out to 
 ## Live Streams
 
 - [Hands-on SAP dev with qmacro](https://blogs.sap.com/2019/01/16/hands-on-sap-dev-with-qmacro-new-live-stream-series/) - DJ and guests talk about CAP while coding live. Every friday 8:00am UK time with an extra Wednesday session every other week. [On Twitch](https://www.twitch.tv/qmacro99).
+
+## Node.js Specific Resources
+- [Javascript API reference](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/a131984aefe94ff884e6b6819ee76bd9.html) - SAP's documentation on the @sap/cds package.
+
+## Sample Applications
+
+### Node.js
+
+- [Spicy](https://github.com/SAP/cloud-sample-spaceflight-node)
+
+### Java
+
+## Java Specific Resources
