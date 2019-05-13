@@ -1,6 +1,6 @@
 # awesome-cap
 
-> A curated list of awesome [SAP Cloud Application Programming Model (CAP)](https://blogs.sap.com/2018/06/05/introducing-the-new-application-programming-model-for-sap-cloud-platform/) resources such as sample applications, articles and video tutorials.
+> A curated list of awesome [SAP Cloud Application Programming Model (CAP)](https://blogs.sap.com/2018/06/05/introducing-the-new-application-programming-model-for-sap-cloud-platform/) resources such as sample applications, articles and video tutorials. Maintained by the community, not by SAP.
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
