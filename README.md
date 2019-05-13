@@ -6,10 +6,10 @@
 
 Like `awesome-cap`? Have any suggestion but don't want to PR this? Reach out to me and say *hi* on [Twitter](https://twitter.com/tiagobalmeida)! 👋
 
-#### Contents
+## Contents
 
 - [Courses](#courses)
-- [Live Streams](#live streams)
+- [Live Streams](#live-streams)
 
 ## Courses
 
