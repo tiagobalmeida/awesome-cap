@@ -13,7 +13,7 @@ Like `awesome-cap`? Have any suggestion but don't want to PR this? Reach out to 
 
 ## Courses
 
-- [Open SAP SAP Cloud Platform Essentials](https://open.sap.com/courses/cp1-3/) - Open SAP SAP Cloud Platform Essentials (Update Q2/2019) covers a lot about CAP.
+- [OpenSAP - SAP Cloud Platform Essentials](https://open.sap.com/courses/cp1-3/) - Open SAP SAP Cloud Platform Essentials (Update Q2/2019) covers a lot about CAP.
 
 ## Live Streams
 
