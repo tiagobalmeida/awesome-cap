@@ -1,4 +1,4 @@
-# awesome-cap [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# awesome-cap
 
 > A curated list of awesome [SAP Cloud Application Programming Model (CAP)](https://blogs.sap.com/2018/06/05/introducing-the-new-application-programming-model-for-sap-cloud-platform/) resources such as sample applications, articles and video tutorials.
 
