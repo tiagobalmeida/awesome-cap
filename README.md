@@ -25,6 +25,10 @@ Like `awesome-cap`? Have any suggestion? Feel free to reach out to me on [Twitte
 ## Node.js Specific Resources
 - [Javascript API reference](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/a131984aefe94ff884e6b6819ee76bd9.html) - SAP's documentation on the @sap/cds package.
 
+## Small examples
+
+ - [OData deep insert](https://github.com/sapmentors/cap-community/tree/master/examples/deep-insert)
+
 ## Sample Applications
 
 ### Node.js
