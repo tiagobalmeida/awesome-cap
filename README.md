@@ -23,7 +23,7 @@ Like `awesome-cap`? Have any suggestion? Feel free to reach out to me on [Twitte
 - [Hands-on SAP dev with qmacro](https://blogs.sap.com/2019/01/16/hands-on-sap-dev-with-qmacro-new-live-stream-series/) - DJ and guests talk about CAP while coding live. Every friday 8:00am UK time with an extra Wednesday session every other week. [On Twitch](https://www.twitch.tv/qmacro99).
 
 ## Node.js Specific Resources
-- [Javascript API reference](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/a131984aefe94ff884e6b6819ee76bd9.html) - SAP's documentation on the @sap/cds package.
+- [Javascript API reference](https://cap.cloud.sap/docs/node.js/api#cds-async) - SAP's documentation on the @sap/cds package.
 - [Using typescript with CAP](https://blogs.sap.com/2020/05/22/taking-cap-to-the-next-level-with-typescript/)
 - [Sample typescript project](https://github.com/HeneryHawk/cap-bookshop-typescript)
 
