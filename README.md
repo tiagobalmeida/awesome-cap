@@ -6,6 +6,8 @@
 
 Like `awesome-cap`? Have any suggestion? Feel free to reach out to me on [Twitter](https://twitter.com/tiagobalmeida) or create a PR. 👋
 
+
+
 ## Contents
 
 - [Courses](#courses)
@@ -13,24 +15,33 @@ Like `awesome-cap`? Have any suggestion? Feel free to reach out to me on [Twitte
 - [Node.js Specific Resources](#node.js-specific-resources)
 - [Sample Applications](#sample-applications)
 - [Sample CDS Services](#sample-cds-services)
-- [Java Specific Resources](#java-specific-resources)
+
+
 
 ## Courses
 
 - [OpenSAP - SAP Cloud Platform Essentials](https://open.sap.com/courses/cp1-3/) - Open SAP SAP Cloud Platform Essentials (Update Q2/2019) covers a lot about CAP.
 
+
+
 ## Live Streams
 
 - [Hands-on SAP dev with qmacro](https://blogs.sap.com/2019/01/16/hands-on-sap-dev-with-qmacro-new-live-stream-series/) - DJ and guests talk about CAP while coding live. Every friday 8:00am UK time with an extra Wednesday session every other week. [On Twitch](https://www.twitch.tv/qmacro99).
+
+
 
 ## Node.js Specific Resources
 - [Javascript API reference](https://cap.cloud.sap/docs/node.js/api#cds-async) - SAP's documentation on the @sap/cds package.
 - [Using typescript with CAP](https://blogs.sap.com/2020/05/22/taking-cap-to-the-next-level-with-typescript/)
 - [Sample typescript project](https://github.com/HeneryHawk/cap-bookshop-typescript)
 
+
+
 ## Small examples
 
  - [OData deep insert](https://github.com/sapmentors/cap-community/tree/master/examples/deep-insert)
+
+
 
 ## Sample Applications
 
@@ -40,8 +51,11 @@ Like `awesome-cap`? Have any suggestion? Feel free to reach out to me on [Twitte
 
 ### Java
 
+
+
+
 ## Sample CDS Services
 
  - [Many2Many by Benjamin Krencker](https://answers.sap.com/questions/12848180/cds-associations-not-working-as-expected-in-cap-pr.html)
 
-## Java Specific Resources
+
