@@ -12,6 +12,7 @@ Like `awesome-cap`? Have any suggestion? Feel free to reach out to me on [Twitte
 - [Live Streams](#live-streams)
 - [Node.js Specific Resources](#node.js-specific-resources)
 - [Sample Applications](#sample-applications)
+- [Sample CDS Services](#sample-cds-services)
 - [Java Specific Resources](#java-specific-resources)
 
 ## Courses
@@ -38,5 +39,9 @@ Like `awesome-cap`? Have any suggestion? Feel free to reach out to me on [Twitte
 - [Spicy](https://github.com/SAP/cloud-sample-spaceflight-node)
 
 ### Java
+
+## Sample CDS Services
+
+ - [Many2Many by Benjamin Krencker](https://answers.sap.com/questions/12848180/cds-associations-not-working-as-expected-in-cap-pr.html)
 
 ## Java Specific Resources
